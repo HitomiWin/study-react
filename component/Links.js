@@ -22,7 +22,7 @@ export default function Links() {
           rel="noopener noreferrer"
         >
           <h2>
-           Hello <span>-&gt;</span>
+           About <span>-&gt;</span>
           </h2>
           <p>Learn about Next.js in an interactive course with&nbsp;quizzes!</p>
         </a>
