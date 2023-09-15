@@ -1,1 +1,2 @@
-export * from "./Header/Header";
+export { Header } from "./Header/Header";
+export { Posts } from "./Posts/Posts";
