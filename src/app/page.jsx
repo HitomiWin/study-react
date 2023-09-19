@@ -7,9 +7,6 @@ import { Header, Posts } from "./components";
 const Home = () => {
   return (
     <div className={styles.container}>
-      <Head>
-        <title>Index Page</title>
-      </Head>
       <Header />
       <main>
         <Posts />
